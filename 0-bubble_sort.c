@@ -9,7 +9,7 @@
 void bubble_sort(int *array, size_t size)
 {
 	size_t n = 0;
-	sizt_t t = size;
+	size_t t = size;
 	int h;
 
 	if (array == NULL)
